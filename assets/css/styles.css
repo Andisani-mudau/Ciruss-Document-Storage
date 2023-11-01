@@ -18,3 +18,12 @@
   color: rgb(206, 206, 206);
 } */
 
+#settings .col a {
+  text-decoration: none;
+}
+
+#settings .col a div:hover {
+  border-radius: 10px;
+  background-color: rgb(243, 243, 243);
+}
+
